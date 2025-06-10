@@ -1,0 +1,21 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+.top{
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+.top h1{
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 35px;
+    display: inline-block;
+    padding: 15px;
+}
