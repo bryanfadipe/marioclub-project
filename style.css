@@ -60,12 +60,70 @@
     h2{
         color: red;
         text-align: center;
-
     }
+
     h1{
         text-align: center;
     }
+
     img {
     display: block;
     margin: auto;
-}
+    }   
+
+    .banner-image{
+        border-bottom: 8px red solid;
+    }
+
+    .friends-heading {
+        margin-top: 25px;
+        color: red;
+        font-size: 40px;
+    }
+
+    .friends-subheading {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .bottom{
+        background-color: grey;
+        font-size: 30px;
+        text-align: center;
+        padding: 40px;
+        color: white;
+    }
+
+    /* Character Styles */
+    .characters-container {
+        margin: 100px;
+    }
+
+    .character-box {
+        background-color: lightgrey;
+        padding: 25px;
+        border-radius: 30px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .character-title {
+        font-size: 30px;
+    }
+
+    .character-description {
+        font-size: 30px;
+        line-height: 60px;
+        text-align: justify;
+    }
+    
+    .images {
+    text-align: center;
+    }
+
+    .collect-coin {
+        display: inline;
+        width: 45%;
+        border-bottom: red 8px solid;
+        margin: 10px;
+    }
